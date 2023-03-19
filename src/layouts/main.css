@@ -1,0 +1,17 @@
+
+.main{
+    height: 100vh;
+}
+
+
+.side{
+    position: fixed;
+    top: 20;
+    background-color: aquamarine;
+}
+
+
+.head{
+    position: fixed;
+    top: 30;
+}

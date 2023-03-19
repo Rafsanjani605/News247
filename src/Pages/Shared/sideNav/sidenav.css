@@ -1,0 +1,22 @@
+.sidenav{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    position: fixed;
+    top: 50;
+    right: 10;
+
+
+}
+
+.sidenav a{
+    color: rgb(33, 33, 46);
+    text-decoration: none;
+}
+
+.sidenav a:hover{
+    color: rgb(13, 158, 177);
+}
